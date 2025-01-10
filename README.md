@@ -1,0 +1,2 @@
+This project was done through California State University, Fullerton's Department of Computer Science and Engineering (CIC-PCUBED) in Summer 2024. This algorithm uses 6 months of stock data to check if two stocks are suitable for pairs trading.
+The code compares and solves for the 2 stocks' (in this case PARAA and NFLX) average, minimum, maximum, variance, SD, and IQR and uses OOP to organize data efficiently. 
